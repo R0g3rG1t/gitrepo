@@ -1,0 +1,43 @@
+[33mcommit e6b726e247d3044e50e7dc67809743c928fb6afd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: neo <solracnem@gmail.com>
+Date:   Wed Sep 2 07:11:01 2026 -0600
+
+    Adding file2
+
+[33mcommit 385c6aefbcd3fcdd7dce14be59e7ebc6b7558521[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: neo <solracnem@gmail.com>
+Date:   Sat Aug 29 07:49:38 2026 -0600
+
+    remove file1.txt
+
+[33mcommit fbe960169150656ae5507b57822baa246f8abe9a[m
+Author: Rogelio Vargas <77112256+R0g3rG1t@users.noreply.github.com>
+Date:   Sat Aug 29 07:25:10 2026 -0600
+
+    Add test file description to file1.txt
+
+[33mcommit c4997b52a241affdfab28e9dd065d9943a838849[m
+Author: Rogelio Vargas <77112256+R0g3rG1t@users.noreply.github.com>
+Date:   Sat Aug 29 07:21:34 2026 -0600
+
+    Add file1.txt with initial content
+    
+    Adding file1.txt
+
+[33mcommit 78b055e4c9b5c96eafdfedcb909a6a6efad0eaa6[m
+Author: Charly <solracnem@gmail.com>
+Date:   Thu Aug 20 13:29:05 2026 +0000
+
+    added email to contact
+
+[33mcommit 1c8aa2ebbd209c4aa95987cd7b5aec9a64c532e0[m
+Author: Rogelio Vargas <rogercvargas@hotmail.com>
+Date:   Thu Aug 20 06:44:36 2026 -0600
+
+    added contact and index files
+
+[33mcommit f901b4cc975ae76e06492431c8129056c58577b9[m
+Author: Rogelio Vargas <77112256+R0g3rG1t@users.noreply.github.com>
+Date:   Wed Aug 19 12:27:26 2026 -0600
+
+    Initial commit
